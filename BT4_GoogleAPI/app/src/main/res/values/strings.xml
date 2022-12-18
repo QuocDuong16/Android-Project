@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BT4_GoogleAPI</string>
+    <string name="title">Know Your Government</string>
+    <string name="search_dialog">Enter a City, State or a Zip code</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="zip_code">ZIP CODE</string>
+    <string name="input_value">Input Value</string>
+    <string name="agency_name">Agency Name</string>
+    <string name="official_name">Official Name</string>
+    <string name="van_phong">Van phong</string>
+    <string name="ten">Ten</string>
+    <string name="dang">Dang</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="website">Website</string>
+    <string name="image_facebook">image facebook</string>
+    <string name="image_google_plus">image google plus</string>
+    <string name="image_twitter">image twitter</string>
+    <string name="image_youtube">image youtube</string>
+    <string name="image_official">image official</string>
+    <string name="please_wait">Please Wait</string>
+</resources>
